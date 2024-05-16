@@ -16,12 +16,12 @@ permalink: /years/
 <button class="btn btn-default" type="submit">按钮</button>
 <input class="btn btn-default" type="button" value="输入">
 <input class="btn btn-default" type="submit" value="提交">
+</body>
 
 
 
 
-
-
+<body>
 <div class="container">
   <h2>进度条设置文本内容</h2>
   <div class="progress">
@@ -30,11 +30,11 @@ permalink: /years/
     </div>
   </div>
 </div>
+</body>
 
 
 
-
-
+<body>
 <p>标签式的导航菜单</p>
 <ul class="nav nav-tabs">
 	<li class="active"><a href="#">Home</a></li>
