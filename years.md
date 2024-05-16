@@ -17,6 +17,11 @@ permalink: /years/
 <input class="btn btn-default" type="button" value="输入">
 <input class="btn btn-default" type="submit" value="提交">
 
+
+
+
+
+
 <div class="container">
   <h2>进度条设置文本内容</h2>
   <div class="progress">
@@ -25,6 +30,22 @@ permalink: /years/
     </div>
   </div>
 </div>
+
+
+
+
+
+<p>标签式的导航菜单</p>
+<ul class="nav nav-tabs">
+	<li class="active"><a href="#">Home</a></li>
+	<li><a href="#">SVN</a></li>
+	<li><a href="#">iOS</a></li>
+	<li><a href="#">VB.Net</a></li>
+	<li><a href="#">Java</a></li>
+	<li><a href="#">PHP</a></li>
+</ul>
+
+
 
 
 
