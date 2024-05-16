@@ -1,3 +1,10 @@
+---
+layout: page
+title: More
+permalink: /more/
+---
+
+
 <html>
 <head>
 	<meta charset="utf-8"> 
