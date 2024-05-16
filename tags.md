@@ -38,7 +38,13 @@ permalink: /tags/
 </button>
 
 
-
+<div class="alert alert-success alert-dismissable">
+	<button type="button" class="close" data-dismiss="alert"
+			aria-hidden="true">
+		&times;
+	</button>
+	成功！很好地完成了提交。
+</div>
 
 
 

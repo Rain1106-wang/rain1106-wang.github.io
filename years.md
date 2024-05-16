@@ -3,3 +3,47 @@ layout: archive-years
 title: Years
 permalink: /years/
 ---
+<html>
+<head>
+	<meta charset="utf-8"> 
+	<title>Bootstrap 实例 - 按钮标签</title>
+	<link rel="stylesheet" href="/css/bootstrap.min.css">
+    <script src="/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<a class="btn btn-default" href="#" role="button">链接</a>
+<button class="btn btn-default" type="submit">按钮</button>
+<input class="btn btn-default" type="button" value="输入">
+<input class="btn btn-default" type="submit" value="提交">
+
+<div class="dropdown">
+	<button type="button" class="btn dropdown-toggle" id="dropdownMenu1" 
+			data-toggle="dropdown">
+		主题
+		<span class="caret"></span>
+	</button>
+	<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+		<li role="presentation" class="dropdown-header">下拉菜单标题</li>
+		<li role="presentation" >
+			<a role="menuitem" tabindex="-1" href="#">Java</a>
+		</li>
+		<li role="presentation">
+			<a role="menuitem" tabindex="-1" href="#">数据挖掘</a>
+		</li>
+		<li role="presentation">
+			<a role="menuitem" tabindex="-1" href="#">
+				数据通信/网络
+			</a>
+		</li>
+		<li role="presentation" class="divider"></li>
+		<li role="presentation" class="dropdown-header">下拉菜单标题</li>
+		<li role="presentation">
+			<a role="menuitem" tabindex="-1" href="#">分离的链接</a>
+		</li>
+	</ul>
+</div>
+
+
+</body>
+</html>
