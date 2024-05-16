@@ -17,7 +17,15 @@ permalink: /years/
 <input class="btn btn-default" type="button" value="输入">
 <input class="btn btn-default" type="submit" value="提交">
 
-ss
+<div class="container">
+  <h2>进度条设置文本内容</h2>
+  <div class="progress">
+    <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style="width:70%">
+      70%
+    </div>
+  </div>
+</div>
+
 
 
 </body>
