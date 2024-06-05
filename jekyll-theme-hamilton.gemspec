@@ -3,7 +3,8 @@
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-theme-hamilton"
   spec.version       = "4.0.0"
-  
+  spec.authors = ["taylor"]
+
 
   spec.summary       = "A minimal and beautiful Jekyll theme best for writing and note-taking."
   
